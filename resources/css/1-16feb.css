@@ -1,0 +1,54 @@
+main>div>div>div{
+    
+    width: 500px;
+   
+    background-color: #190fa7;
+    
+    
+
+}
+main>div{
+    
+    display:flex; 
+    
+
+}
+img{
+    width: 400px;
+    display: block;
+    
+    margin-left:75px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+
+}
+div{
+   
+    margin:10px;
+    padding: 10px;
+}
+button{
+    background-color: #190fa7; 
+    color:   #fff; 
+    
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 45px;
+}
+h2{
+    font: 50px Arial, sans-serif;
+    color:   #190fa7; 
+    text-transform: uppercase;
+    text-align: center;
+}
+ol>li{
+    font-size: 20px;
+    color:   #070000; 
+    text-transform: capitalize;
+    list-style-type: circle;
+    padding: 5px;
+    
+    
+}
