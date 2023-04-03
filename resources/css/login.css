@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin:0;
+    }
+    body{
+        
+        font-family:'15px' 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    h1{
+        font-size: 25px;
+        
+    }
+    h2{
+        font-size: 25px;
+        text-transform: uppercase;
+        color: #1f0861;
+        letter-spacing:2px;
+        font-style:oblique;
+        text-align: center;
+    }
+    form{
+      
+        margin:10px;
+        padding: 5px;
+        font-weight: bold;
+        color: #1f0861;
+    }
+    label{
+      
+        margin:5px;
+        padding: 2px;
+        font-weight: bold;
+      
+    }
+    legend{
+        text-transform: uppercase;
+        margin:5px;
+        padding: 2px;
+    }
+    input{
+      
+        color: #020008;
+        font-weight: bold;
+        width:100px;
+        font-style: italic;              
+       
+        }
+   p{
+         font-style:normal;
+        text-decoration:underline;
+        padding: 5px;
+        margin:10px;
+    }
+    div{
+        
+        border: 5px solid rgb(8, 51, 49);
+        background-color:rgb(158, 157, 153);
+        padding: 5px;
+        margin:10px;
+    }
